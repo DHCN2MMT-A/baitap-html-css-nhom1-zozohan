@@ -1,0 +1,61 @@
+H1{
+    color: red;
+    text-align: center;
+}
+#thapba{
+    padding: ;
+}
+nav{
+    text-align: right;
+}
+#thapba2, #thapba4{
+    float: left;
+}
+#vinpearl2{
+    float: left;
+}
+#honchong2, #honchong4{
+    float: left;
+}
+#diepson2, #diepson4{
+    float: left;
+}
+#menu ul {
+    background: seagreen;
+    list-style-type: none;
+    text-align: center;
+  }
+  #menu li {
+    color: #f1f1f1;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: -5px;
+  }
+  #menu a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+  }
+
+  #menu a:hover {
+    background: #F1F1F1;
+    color: #333;
+  }
+  H2{
+      color: blue;
+      
+  }
+  body{
+      background-color: aquamarine;
+  }
+  div #footer{
+      background-color: coral;
+      color: blue;
+  }
+  footer{
+      border: 10PX solid coral;
+      background: coral;
+      text-align: center;
+  }
